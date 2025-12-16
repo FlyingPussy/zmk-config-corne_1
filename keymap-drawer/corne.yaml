@@ -2,7 +2,7 @@ layout: {zmk_keyboard: corne}
 layers:
   BASE:
   - {t: TAB, h: Ctl+Sft+LALT}
-  - Q
+  - B
   - W
   - E
   - R
